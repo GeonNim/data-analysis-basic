@@ -1,0 +1,28 @@
+conda install numpy
+conda install pandas
+conda install matplotlib
+conda install scikit-learn
+conda install scipy
+conda install jupyter
+conda install pip
+
+콘다로 안될경우
+pip 로 입력
+
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install scikit-learn
+pip install scipy
+pip install jupyter
+pip install pip
+pip install seaborn
+    탭은 선택사항
+            conda install flask
+            conda install django
+            conda install django
+            conda install pytest
+
+
+추가 모듈 설치
+pip install package_name
